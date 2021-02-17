@@ -1,5 +1,4 @@
-# code-quiz
-# 04 Web APIs: Code Quiz
+# Code Quiz
 
 ## Your Task
 
