@@ -2,7 +2,7 @@
 
 ## Description
 
-A short quiz to test you knowledge each time you get a question wrong time is subtracted from the clock by 10 seconds. when the game is over you get you results and save your score and initials.
+A short quiz to test your knowledge, each time you get a question wrong time is subtracted from the clock by 10 seconds. when the game is over you get you results and are able to save your score and initials you can retake the quiz at anytime.
 
 ## User Story
 
